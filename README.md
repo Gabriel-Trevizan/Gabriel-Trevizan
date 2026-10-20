@@ -1,16 +1,31 @@
-## Hi there 👋
+# ▪️ Gabriel Trevizan Gonçalves de Oliveira
 
-<!--
-**Gabriel-Trevizan/Gabriel-Trevizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ▪️ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de **Ciência da Computação na Universidade Positivo**, com foco em desenvolvimento de software, automação de processos e soluções com Inteligência Artificial.
+
+Busco transformar ideias em soluções tecnológicas por meio de projetos práticos, aprimorando continuamente minhas habilidades em programação, banco de dados e desenvolvimento web.
+
+### ▪️ Tecnologias e conhecimentos
+
+- **Linguagens:** Python, JavaScript, C
+- **Banco de dados:** MySQL
+- **Desenvolvimento web:** HTML, CSS
+- **Outras áreas:** UX/UI, automação de processos e Inteligência Artificial
+
+### ▪️ Atualmente estudando
+
+- Desenvolvimento Full Stack
+- Estruturas de dados e lógica de programação
+- Banco de dados e SQL
+- Desenvolvimento de aplicações e automações com IA
+
+### ▪️ Objetivo
+
+Desenvolver projetos que unam tecnologia, criatividade e eficiência, criando soluções que resolvam problemas reais.
+
+### ▪️ GitHub
+
+Aqui compartilho meus estudos, projetos acadêmicos e experimentos com diferentes tecnologias.
+
